@@ -1,0 +1,21 @@
+* {
+    background-color: #000000;
+    color:rgb(255, 232, 179);
+    font-family: 'Courier New', Courier, monospace;
+}
+nav {
+    background-color: rgb(133, 253, 213);
+    color:rgb(2, 133, 145);
+    font-weight: bold;
+    font: size 12px;
+    border: solid 3px rgb(1, 171, 187);
+    text-align: center;
+    line-height: 5;
+    height: 100px;
+        width: 100%;
+    position: relative;
+z-index:1;}
+
+header { color: orangered;
+font-size:80px;
+}
